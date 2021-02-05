@@ -132,7 +132,7 @@ nav {
 .nav-list {
   width: 24rem;
   height: 100vh;
-  background-color: #222222;
+  background-color: #363438;
   position: fixed;
   top: 0;
   right: -26rem;
@@ -407,7 +407,7 @@ hr {
     rgba(102, 51, 153, 1) 100%
   );
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
   background-clip: inherit;
 }
 
@@ -453,7 +453,7 @@ hr {
     rgba(102, 51, 153, 1) 100%
   );
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
   background-clip: inherit;
 }
 
