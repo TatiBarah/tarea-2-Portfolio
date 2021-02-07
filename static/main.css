@@ -347,8 +347,8 @@ hr {
   margin: 4rem 0;
   background: linear-gradient(
     to right,
-    rgb(67, 212, 23) 0%,
-    rgba(102, 51, 153, 1) 100%
+    rgb(6, 184, 30) 0%,
+    rgb(56, 34, 179) 100%
   );
   border: 0;
   height: 1px;
@@ -403,8 +403,8 @@ hr {
   margin: 2rem 0;
   background: linear-gradient(
     to right,
-    rgb(67, 212, 23) 0%,
-    rgba(102, 51, 153, 1) 100%
+    rgb(6, 184, 30) 0%,
+    rgb(56, 34, 179) 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: white;
@@ -449,8 +449,8 @@ hr {
   margin: 2rem 0;
   background: linear-gradient(
     to right,
-    rgb(67, 212, 23) 0%,
-    rgba(102, 51, 153, 1) 100%
+    rgb(6, 184, 30) 0%,
+    rgb(56, 34, 179) 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: white;
