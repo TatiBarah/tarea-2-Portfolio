@@ -254,8 +254,8 @@ nav {
   color: rgb(77, 22, 206);
   background: linear-gradient(
     to right,
-    rgb(173, 2, 88) 0%,
-    rgb(120, 34, 206) 100%
+    rgb(136, 6, 71) 0%,
+    rgb(38, 6, 70) 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: white;
@@ -347,8 +347,8 @@ hr {
   margin: 4rem 0;
   background: linear-gradient(
     to right,
-    rgb(6, 184, 30) 0%,
-    rgb(56, 34, 179) 100%
+    rgb(156, 17, 126) 0%,
+    rgb(44, 25, 151) 100%
   );
   border: 0;
   height: 1px;
@@ -403,8 +403,8 @@ hr {
   margin: 2rem 0;
   background: linear-gradient(
     to right,
-    rgb(6, 184, 30) 0%,
-    rgb(56, 34, 179) 100%
+    rgb(156, 17, 126) 0%,
+    rgb(44, 25, 151) 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: white;
@@ -449,8 +449,8 @@ hr {
   margin: 2rem 0;
   background: linear-gradient(
     to right,
-    rgb(6, 184, 30) 0%,
-    rgb(56, 34, 179) 100%
+    rgb(156, 17, 126) 0%,
+    rgb(44, 25, 151) 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: white;
